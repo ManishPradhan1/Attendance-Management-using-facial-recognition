@@ -27,7 +27,7 @@
 <img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/1.PNG'>
 
 ### While taking Image
-![Screenshot (103)](https://user-images.githubusercontent.com/26384517/86820502-c7f44500-c0a6-11ea-9530-6317ec2059d9.png)
+![Screenshot 2024-05-18 042217](https://github.com/ManishPradhan1/Attendance-Management-using-facial-recognition/assets/78529495/01359bdd-4922-4a5b-98d4-caa245db3b65)
 
 ## While taking Attendance
 ![Screenshot (91)](https://user-images.githubusercontent.com/26384517/86821090-9465ea80-c0a7-11ea-9680-777923663d0c.png)
